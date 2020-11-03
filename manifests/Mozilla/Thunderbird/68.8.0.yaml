@@ -12,6 +12,6 @@ Installers:
     Url: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/68.8.0/win32/en-US/Thunderbird%20Setup%2068.8.0.exe
     Sha256: 94CEA16648F4DBD10667C57ACAF2AE8B7DEC56AAA4DC74CEE8FE3EE3BE37A037
     InstallerType: exe
-    Switches: 
+    Switches:
       Silent: "-ms"
       SilentWithProgress: "-ms"
